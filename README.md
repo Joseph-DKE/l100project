@@ -41,7 +41,7 @@
       <li>
         Communicate with the API whenever there is internet connection to get new list of words
       </li>
-    <ul>
+    </ul>
   <li>
     Create the API (If the source we can find is an API already, this won't be needed)
   </li>

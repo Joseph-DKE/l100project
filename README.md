@@ -2,7 +2,7 @@
   l100project
 </h1>
 <h3>
-  This is a project for the Level 100s, now Level 200s.
+  This is a project for the Level 100s, now Level 300s.
 
 ​</h3>
 <hr>
